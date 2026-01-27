@@ -4,7 +4,7 @@
 CSE-358 Computer Graphics and Multimedia Lab
 
 ## Author
-MD Raiyan
+- MD Raiyan
 
 ## Description
 This program creates a cyan-colored window using OpenGL with GLFW and GLAD.
