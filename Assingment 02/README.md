@@ -13,21 +13,26 @@
 * Used GLFW + GLAD (Modern OpenGL Core Profile)
 * Proper code structure, formatting, and comments
 * Original work implemented and tested locally
-* README documentation and output screenshot attached
+* README documentation
+* Output Screenshot attached
+  
 ## 🔧 Program Features
 * Graphics Library: OpenGL 3.3 Core Profile
 * Window Management: GLFW
 * Function Loader: GLAD
+  
 ## Window Properties
 
 * Size: 800 × 600 pixels
 * Background Color: Orange (1.0, 0.5, 0.0)
 * Title: ** Md Raiyan **
+  
 ## Rendering
 
 * Two cyan obtuse triangles
 * Rendered using glDrawArrays(GL_TRIANGLES)
 * Vertex Array Object (VAO) and Vertex Buffer Object (VBO) used
+  
 ## Keyboard Interaction
 
 * Press first letter of your name (e.g., R) to close the window
