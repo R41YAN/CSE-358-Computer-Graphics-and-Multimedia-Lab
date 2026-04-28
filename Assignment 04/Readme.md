@@ -1,4 +1,4 @@
-# ⭐ Lab 04: Dynamic Color Triangle Using OpenGL
+# ⭐ Assignment 04: Dynamic Color Triangle Using OpenGL
 
 ## 📋 Description
 This OpenGL application renders **one triangle** whose color changes dynamically over time using shader uniforms. The triangle initially appears in **cyan** and smoothly transitions between **cyan and magenta** during execution. The program demonstrates the use of **Modern OpenGL (Core Profile)** concepts such as vertex buffers, vertex arrays, shader programs, and uniform variables. Keyboard input is also implemented to interact with the triangle color and close the window.
@@ -78,7 +78,7 @@ This OpenGL application renders **one triangle** whose color changes dynamically
 ---
 
 ## 🧑‍🎓 Author
-**Md Raiyan**  
+**Md. Raiyan**  
 ID – 0432320005101101  
 
 ---
