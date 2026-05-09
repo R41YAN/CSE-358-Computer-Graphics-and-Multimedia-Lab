@@ -1,1 +1,0 @@
-Create a rectangle that changes color gradually from red to white and it magnifies and rotates in xy direction with time.
