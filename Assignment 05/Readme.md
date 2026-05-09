@@ -82,13 +82,12 @@ This OpenGL application renders **one rectangle** (composed of two triangles) th
 ---
 
 ## 📸 Output Screenshot
-![Rectangle Output](Output.png)
+![Rectangle Output](output.png)
 
 ---
 
 ## 🧑‍🎓 Author
 **Md. Raiyan**
-ID – 0432320005101101
 
 ---
 
